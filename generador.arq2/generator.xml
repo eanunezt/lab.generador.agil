@@ -1,0 +1,21 @@
+<generator>
+  <name>generador.arq2</name>
+  <m2t name="dao.mtl"/>
+  <m2t name="entidad.mtl"/>
+  <m2t name="ApplicationConfig.mtl"/>
+  <m2t name="persistence.mtl"/>
+  <m2t name="pom.mtl"/>
+  <m2t name="endpoint.mtl"/>
+  <m2t name="genEnum.mtl"/>  
+  <m2t name="filtro/FiltroCache.mtl"/>
+  <m2t name="filtro/FiltroExcepciones.mtl"/>
+  <m2t name="view/app.mtl"/>
+  <m2t name="view/controller.mtl"/>
+  <m2t name="view/index.mtl"/>
+  <m2t name="view/menu.mtl"/>
+  <m2t name="view/partial.mtl"/>
+  <m2t name="view/css.mtl"/>
+   <m2t name="view/directives.mtl"/>
+  <m2t name="view/utilsjs.mtl"/>
+  <m2t name="view/crud.mtl"/>
+</generator>
